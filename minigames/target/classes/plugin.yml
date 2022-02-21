@@ -1,0 +1,4 @@
+name: Arcade
+main: com.nickcontrol.arcade.Arcade
+version: 1.0
+depend: [ProtocolLib, HolographicDisplays]
